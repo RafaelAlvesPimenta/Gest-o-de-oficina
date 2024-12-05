@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gest-o-de-oficina/static/css/main.c4549a25.css",
+    "main.js": "/Gest-o-de-oficina/static/js/main.b830c1fc.js",
+    "static/js/453.8f8abcfc.chunk.js": "/Gest-o-de-oficina/static/js/453.8f8abcfc.chunk.js",
+    "index.html": "/Gest-o-de-oficina/index.html",
+    "main.c4549a25.css.map": "/Gest-o-de-oficina/static/css/main.c4549a25.css.map",
+    "main.b830c1fc.js.map": "/Gest-o-de-oficina/static/js/main.b830c1fc.js.map",
+    "453.8f8abcfc.chunk.js.map": "/Gest-o-de-oficina/static/js/453.8f8abcfc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4549a25.css",
+    "static/js/main.b830c1fc.js"
+  ]
+}
